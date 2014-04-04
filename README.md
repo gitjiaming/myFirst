@@ -1,0 +1,3 @@
+myFirst
+=======
+*.class
